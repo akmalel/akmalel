@@ -48,7 +48,7 @@ I am a Cybersecurity Analyst <img src="https://media.giphy.com/media/WUlplcMpOCE
   [![GitHub Streak](https://streak-stats.demolab.com?user=akmalel&theme=dark)](https://git.io/streak-stats)
   
  ---
-# Blog posts
+### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Automating Vulnerability Detection with Python: Port Scans, SQL Injection, and More](https://akmalcyber.com/2025/01/13/automating-vulnerability-detection-with-python-port-scans-sql-injection-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=automating-vulnerability-detection-with-python-port-scans-sql-injection-and-more)
 - [Unmasking a Job Offer Scam: How a Dream Job Turned Malicious](https://akmalcyber.com/2025/01/13/unmasking-a-job-offer-scam-how-a-dream-job-turned-malicious/?utm_source=rss&utm_medium=rss&utm_campaign=unmasking-a-job-offer-scam-how-a-dream-job-turned-malicious)
