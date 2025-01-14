@@ -50,4 +50,9 @@ I am a Cybersecurity Analyst <img src="https://media.giphy.com/media/WUlplcMpOCE
  ---
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Vulnerability Detection with Python: Port Scans, SQL Injection, and More](https://akmalcyber.com/2025/01/13/automating-vulnerability-detection-with-python-port-scans-sql-injection-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=automating-vulnerability-detection-with-python-port-scans-sql-injection-and-more)
+- [Unmasking a Job Offer Scam: How a Dream Job Turned Malicious](https://akmalcyber.com/2025/01/13/unmasking-a-job-offer-scam-how-a-dream-job-turned-malicious/?utm_source=rss&utm_medium=rss&utm_campaign=unmasking-a-job-offer-scam-how-a-dream-job-turned-malicious)
+- [Creating a Password Generator in Python](https://akmalcyber.com/2024/12/29/creating-a-password-generator-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-password-generator-in-python)
+- [Creating a Network Traffic Analyzer](https://akmalcyber.com/2024/12/28/creating-a-network-traffic-analyzer/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-network-traffic-analyzer)
+- [Creating a Malware Analyzer Tool](https://akmalcyber.com/2024/12/27/creating-a-malware-analyzer-tool/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-malware-analyzer-tool)
 <!-- BLOG-POST-LIST:END --> 
