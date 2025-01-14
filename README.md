@@ -1,10 +1,8 @@
-## Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF6ZW1maGF2cDlibWl6bTUwY2ZubXMxNm5yMTIzOHpteHRmbDY0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/110YfuwtzXGaaI/giphy.gif" width="300"/>
+</div>
 <!--
 **akmalel/akmalel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk5djM2d2dtY2ZhcG8ycW42ZzJsc3cwcHZjMzI3amppMmJsd25nbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="100"/>
-</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
