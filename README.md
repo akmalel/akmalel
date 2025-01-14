@@ -48,6 +48,6 @@ I am a Cybersecurity Analyst <img src="https://media.giphy.com/media/WUlplcMpOCE
   [![GitHub Streak](https://streak-stats.demolab.com?user=akmalel&theme=dark)](https://git.io/streak-stats)
   
  ---
-### :writing_hand: Blog Posts :
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> 
