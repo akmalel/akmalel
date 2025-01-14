@@ -42,8 +42,15 @@ I am a Cybersecurity Analyst <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   
 </div>
+
+---
+### :fire: My Stats :
+  [![GitHub Streak](https://streak-stats.demolab.com?user=akmalel&theme=dark)](https://git.io/streak-stats)
   
- 
+ ---
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!--
 **akmalel/akmalel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
