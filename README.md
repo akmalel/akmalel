@@ -29,19 +29,15 @@
 
 ---
 <h2>Skills:</h2>
-<ul> 
 <li> Linux & Cloud Security</li>
 <li> Python Security Automation</li>
 <li>Azure Sentinel & Splunk SIEM</li>
 <li>Network Traffic Analysis</li>
-</ul>
 
 ---
 <h3>Certifications:</h3>
-<ul>
   <li>CompTIA Security+ | Network+ | Azure AZ-900</li>
   <li>CySA+ (In Progress) | Splunk Core Certified User (In Progress) | Azure AZ-500 (In Progress) | Azure AZ-104 (In Progress) </li>
-</ul>
 
 ---
 ### :hammer_and_wrench: Languages and Tools : 
