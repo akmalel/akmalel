@@ -24,7 +24,8 @@
 ---
 ### :man_technologist: About Me :
 I am a Cybersecurity Analyst & Python Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chicago.
-
+<p> Specialiizng in <strong>Threat Detection, Network Security, and Security Automation</strong></p>
+<p> Passionate about <strong>Python scripting, SIEM, Incident Response, and Cloud Security</strong></p>
 ---
 <h2>Skills:</h2>
 <ul> 
