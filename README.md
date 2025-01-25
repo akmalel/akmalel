@@ -23,12 +23,15 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Cybersecurity Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chicago.
-- :telescope: I’m working as a .
+I am a Cybersecurity Analyst & Python Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chicago.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I 
+<h2>Skills:</h2>
+<ul> 
+<li> Linux & Cloud Security</li>
+<li> Python Security Automation</li>
+<li>Azure Sentinel & Splunk SIEM</li>
+<li>Network Traffic Analysis</li>
+</ul>
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmalel)
 
