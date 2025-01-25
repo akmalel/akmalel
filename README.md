@@ -25,6 +25,7 @@
 ### :man_technologist: About Me :
 I am a Cybersecurity Analyst & Python Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chicago.
 
+---
 <h2>Skills:</h2>
 <ul> 
 <li> Linux & Cloud Security</li>
@@ -35,6 +36,12 @@ I am a Cybersecurity Analyst & Python Security Engineer <img src="https://media.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmalel)
 
+---
+<h3>Certifications:</h3>
+<ul>
+  <li>CompTIA Security+ | Network+ | Azure AZ-900</li>
+  <li>CySA+ (In Progress) | Splunk Core Certified User (In Progress)</li>
+</ul>
 ---
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
