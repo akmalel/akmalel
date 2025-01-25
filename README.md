@@ -34,8 +34,6 @@ I am a Cybersecurity Analyst & Python Security Engineer <img src="https://media.
 <li>Network Traffic Analysis</li>
 </ul>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmalel)
-
 ---
 <h3>Certifications:</h3>
 <ul>
@@ -67,3 +65,5 @@ I am a Cybersecurity Analyst & Python Security Engineer <img src="https://media.
 - [Creating a Network Traffic Analyzer](https://akmalcyber.com/2024/12/28/creating-a-network-traffic-analyzer/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-network-traffic-analyzer)
 - [Creating a Malware Analyzer Tool](https://akmalcyber.com/2024/12/27/creating-a-malware-analyzer-tool/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-malware-analyzer-tool)
 <!-- BLOG-POST-LIST:END --> 
+
+--- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmalel)
