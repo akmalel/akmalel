@@ -29,8 +29,8 @@
 
 ---
 <h2>Skills:</h2>
-<li> Linux & Cloud Security</li>
-<li> Python Security Automation</li>
+<li>Linux & Cloud Security</li>
+<li>Python Security Automation</li>
 <li>Azure Sentinel & Splunk SIEM</li>
 <li>Network Traffic Analysis</li>
 
