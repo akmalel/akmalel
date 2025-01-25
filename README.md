@@ -68,3 +68,5 @@ I am a Cybersecurity Analyst & Python Security Engineer <img src="https://media.
 
 --- :mailbox:How to reach me: [
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmalel)
+
+---
