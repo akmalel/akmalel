@@ -22,7 +22,7 @@
 </div>
 
 ---
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 <h1>Cybersecurity Analyst & Python Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chicago.</h1>
 <p> Specializing in <strong>Threat Detection, Network Security, and Security Automation</strong></p>
 <p> Passionate about <strong>Python scripting, SIEM, Incident Response, and Cloud Security</strong></p>
