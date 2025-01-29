@@ -48,7 +48,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xCode" alt="xCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
