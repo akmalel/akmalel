@@ -26,7 +26,7 @@
 <h1>Cybersecurity Analyst & Python Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chicago.</h1>
 <p> Specializing in <strong>Threat Detection, Network Security, and Security Automation</strong></p>
 <p> Passionate about <strong>Python scripting, SIEM, Incident Response, and Cloud Security</strong></p>
-<p> Majoring in Bachelors of Science, Cybersecurity with expected Graduation in Decemeber 2025</p>
+
 ---
 <h2>Skills:</h2>
 <li>Linux & Cloud Security</li>
