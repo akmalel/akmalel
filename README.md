@@ -62,10 +62,11 @@
 </div>
 
 ---
-  <img src="https://tryhackme-badges.s3.amazonaws.com/akmalel.png" alt="Your Image Badge" />
   
 ### :fire: My Stats :
   [![GitHub Streak](https://streak-stats.demolab.com?user=akmalel&theme=dark)](https://git.io/streak-stats) 
+   <img src="https://tryhackme-badges.s3.amazonaws.com/akmalel.png" alt="Your Image Badge" />
+   
  ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
