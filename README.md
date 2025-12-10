@@ -18,7 +18,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGd2NWszbmU0OG1oMDhvZXY4aDdqbWFuem1sNDB0cjBkYTl2YmZzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3149628" style='border:none;'></iframe>
+### :fire: My Stats :
+  [![GitHub Streak](https://streak-stats.demolab.com?user=akmalel&theme=dark)](https://git.io/streak-stats) 
 </div>
 
 ---
@@ -58,8 +60,6 @@
 </div>
 
 ---
-### :fire: My Stats :
-  [![GitHub Streak](https://streak-stats.demolab.com?user=akmalel&theme=dark)](https://git.io/streak-stats)
   
  ---
 ### :writing_hand: Blog Posts :
