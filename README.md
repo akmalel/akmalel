@@ -18,7 +18,7 @@
 </h1>
 
 <div align="center">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3149628" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/akmalel.png" alt="Your Image Badge" />
   
 ### :fire: My Stats :
   [![GitHub Streak](https://streak-stats.demolab.com?user=akmalel&theme=dark)](https://git.io/streak-stats) 
