@@ -31,7 +31,7 @@
 
 ---
 <h3>Certifications:</h3>
-  <li>CompTIA Security+ | Network+ | Azure AZ-900</li>
+  <li>CompTIA Security+ | CCNA | Azure AZ-900</li>
   <li>CySA+ (In Progress) | Splunk Core Certified User (In Progress) | Azure AZ-500 (In Progress) | Azure AZ-104 (In Progress) </li>
 
 ---
