@@ -32,8 +32,8 @@ jobs:
       continue-on-error: true
       with:
         image_path: './assets/tryhackme-badge.png'
-        username: 'your_tryhackme_username'
-        user_id: 'your_tryhackme_user_id'
+        username: 'akmalel'
+        user_id: 'akmalel'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Commit and push badge if changed
