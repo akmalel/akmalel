@@ -64,11 +64,11 @@
  ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Automating Vulnerability Detection with Python: Port Scans, SQL Injection, and More](https://akmalcyber.com/2025/01/13/automating-vulnerability-detection-with-python-port-scans-sql-injection-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=automating-vulnerability-detection-with-python-port-scans-sql-injection-and-more)
 - [Creating a Password Generator in Python](https://akmalcyber.com/2024/12/29/creating-a-password-generator-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-password-generator-in-python)
 - [Creating a Network Traffic Analyzer](https://akmalcyber.com/2024/12/28/creating-a-network-traffic-analyzer/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-network-traffic-analyzer)
 - [Creating a Malware Analyzer Tool](https://akmalcyber.com/2024/12/27/creating-a-malware-analyzer-tool/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-malware-analyzer-tool)
 - [Data Connectors in Microsoft Sentinel](https://akmalcyber.com/2024/09/05/data-connectors-in-microsoft-sentinel/?utm_source=rss&utm_medium=rss&utm_campaign=data-connectors-in-microsoft-sentinel)
+- [Configuring Microsoft Sentinel Playbook](https://akmalcyber.com/2024/08/28/azure-identity-and-access-management-iam-project/?utm_source=rss&utm_medium=rss&utm_campaign=azure-identity-and-access-management-iam-project)
 <!-- BLOG-POST-LIST:END --> 
 
 --- 
